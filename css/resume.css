@@ -145,3 +145,13 @@ a {
 a:hover, a:focus, a:active {
   color: #7aabff;
 }
+
+#about {
+  color: white;
+  text-shadow: 1px 1px black;
+  font-weight: bold;
+  font-size: 20px;
+  background-image: url('../img/chautauqua-park-view.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+}
