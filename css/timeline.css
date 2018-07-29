@@ -171,5 +171,9 @@
 }
 
 #about {
-  color: white;
+  color: #77ffbf;
+  text-shadow: 2px 2px black;
+  font-weight: bold;
+  font-size: 18px;
+
 }
